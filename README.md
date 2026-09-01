@@ -1,18 +1,39 @@
-# Halo semua! 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=10000&color=87CEEB&center=true&vCenter=true&width=300&lines=I'm+Wika" alt="Typing SVG"/>
+</p>
 
-Perkenalkan, saya **Wika Dwi Aprilia**. Saya merupakan mahasiswa **D3 Teknik Informatika di Politeknik Negeri Semarang**.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=30&text=Informatics%20Engineering%20Student%20%C2%B7%20Software%20Developer%20%C2%B7%20Web%20Developer&fontSize=18&fontColor=4682B4"/>
+</p>
 
-Saya memiliki ketertarikan pada **software development, web development, dan UI/UX**. Saya senang mempelajari hal-hal baru melalui berbagai project dan terus mengembangkan kemampuan saya di bidang teknologi.
+<p align="center"> <a href="https://www.linkedin.com/in/wikadwiaprilia/"> <img src="https://img.shields.io/badge/LinkedIn-5BA9E6?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p>
 
-Saat ini saya sedang banyak mengeksplorasi berbagai teknologi seperti **Next.js, Laravel, Flutter, PostgreSQL, Prisma, dan Firebase**. Bagi saya, setiap project bukan hanya tentang membuat aplikasi, tetapi juga tentang belajar, mencoba, dan menjadi versi diri yang lebih baik. 
 
-Saya juga senang berkolaborasi, berdiskusi, dan bertukar pengalaman dengan orang-orang yang memiliki ketertarikan di bidang teknologi.
+---
 
-Jika kamu tertarik untuk berkenalan atau terhubung denganku, kamu bisa mengunjungi profil **[LinkedIn](https://www.linkedin.com/in/wikadwiaprilia/)** saya. 😊
+### About Me
 
-<p align="left">
-<a href="https://github.com/wikadprly">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=wikadprly&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wikadprly&layout=compact&theme=algolia"/>
-</a>
+I'm an Informatics Engineering student at **Politeknik Negeri Semarang** interested in **software development and web development**.
+
+I enjoy turning ideas into applications and learning through hands-on projects. Currently, I'm exploring modern web technologies and improving my skills by building practical and maintainable applications.
+
+---
+
+### Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,php,dart,java,nextjs,laravel,flutter,tailwind,postgresql,prisma,firebase,git,github,vscode" />
+</p>
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=wikadprly&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wikadprly&layout=compact&theme=default&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <i>Still learning, always building.</i>
 </p>
